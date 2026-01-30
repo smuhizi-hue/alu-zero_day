@@ -1,1 +1,1 @@
-Git directory for ALU Zero Day project
+Git directory for ALU Zero Day
