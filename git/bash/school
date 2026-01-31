@@ -1,3 +1,3 @@
 #!/bin/bash
-echo -e "#!/bin/bash\necho \"School\"" > bash/school
+echo "the school is open"
 
